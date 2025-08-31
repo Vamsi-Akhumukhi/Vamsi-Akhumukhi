@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vamsi-Akhumukhi
+- 👋 Hi, I’m @Vamsi-Akhumukhi https://www.linkedin.com/in/vamsi-akhumukhi/
 - 👀 I had friends on that death star!
-https://www.linkedin.com/in/vamsi-akhumukhi/
+
 
 <!---
 Vamsi-Akhumukhi/Vamsi-Akhumukhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
